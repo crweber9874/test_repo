@@ -1,0 +1,29 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Shiny specific
+rsconnect/
+
+# Data files (uncomment if you don't want to commit large data files)
+# *.csv
+# *.xlsx
+# *.rds
+# *.RData
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary files
+*~
+*.swp
+*.swo
+.Rproj.user/
